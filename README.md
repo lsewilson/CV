@@ -55,7 +55,9 @@ Awards
 #### St Helen's School, London (Sep '03 - Aug '10)
 
 A Levels:        4 A*s in Mathematics, Further Mathematics, Chemistry and Biology
+
 Advanced Awards: A in FMSQ Additional Maths
+
 GCSEs:           10 A*s and 1 A
 
 ## Experience
