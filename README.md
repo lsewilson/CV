@@ -1,6 +1,6 @@
 ## Laura Wilson
 
-[Skills](##Skills) | [Projects](##Projects) | [Experience](##Experience)| [Education](##Education) | [Hobbies and Interests](##Hobbies)
+[Skills](##Skills) | [Education](##Education) | [Experience](##Experience) | [Hobbies and Interests](##Hobbies)
 
 I am an ambitious, analytical and energetic individual, with a degree in Natural Sciences from the University of Cambridge.
 
@@ -10,9 +10,7 @@ After two years working as a Commodities trader at an investment bank, and a gap
 
 #### Excellent communicator
 
-I have excellent written and oral communication skills.
-
-During my time at Bank of America, I wrote and distributed a daily newsletter to clients, with market commentary and data analysis. I have continued to develop my written communication skills by blogging about my experience learning to code and I use it to develop a stronger online presence, by combining it with other social media outlets such as Twitter.
+During my time at Bank of America, I wrote and distributed a daily newsletter to clients, with market commentary and data analysis. I have continued to develop my written communication skills by [blogging](http://codingwithlaura.wordpress.com) about my experience learning to code and I use it to develop a stronger online presence, by combining it with other social media outlets such as Twitter.
 I have also taken up mentoring two junior students at Makers Academy, who I regularly interact with and help guide their coding.
 
 #### Thrives under pressure
@@ -77,6 +75,6 @@ I am blogging about my experience [here](http://codingwithlaura.wordpress.com).
 
 ## Hobbies and Interests
 
-- Cycling: I took part in Prudential RideLondon and a team London-to-Rome cycling event raising over £40,000 for charity in 2015.
-- Yoga: to stretch out after a day at the computer.
-- Baking: I make an excellent lemon drizzle.
+- **Cycling**: I took part in Prudential RideLondon and a team London-to-Rome cycling event raising over £40,000 for charity in 2015.
+- **Yoga**: to stretch out after a day at the computer.
+- **Baking**: I make an excellent lemon drizzle.
