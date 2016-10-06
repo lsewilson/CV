@@ -1,6 +1,6 @@
 ## Laura Wilson
 
-[Skills](##Skills) | [Education](##Education) | [Experience](##Experience) | [Hobbies and Interests](##Hobbies)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
 
 I am an ambitious, analytical and energetic individual, with a degree in Natural Sciences from the University of Cambridge.
 
@@ -10,7 +10,7 @@ After two years working as a Commodities trader at an investment bank, and a gap
 
 #### Excellent communicator
 
-During my time at Bank of America, I wrote and distributed a daily newsletter to clients, with market commentary and data analysis. I have continued to develop my written communication skills by [blogging](http://codingwithlaura.wordpress.com) about my experience learning to code and I use it to develop a stronger online presence, by combining it with other social media outlets such as Twitter.
+During my time at Bank of America, I wrote and distributed a daily newsletter to clients, with market commentary and data analysis. I have continued to develop my written communication skills by [blogging](http://codingwithlaura.wordpress.com) about my experience learning to code and I use it to develop a stronger online presence, by combining it with other social media outlets such as [Twitter](https://twitter.com/laura_wilson19).
 I have also taken up mentoring two junior students at Makers Academy, who I regularly interact with and help guide their coding.
 
 #### Thrives under pressure
@@ -19,7 +19,7 @@ From having to co-organise an end-of-year ball during my final year at universit
 
 #### Fast learner
 
-I earned a full-time offer at Bank of America Merrill Lynch by impressing my line manager with how quickly I picked up an understanding of finance and the technologies that the team used, despite having a scientific background and no previous experience in finance. For our [Makersbnb project](http://github.com/lsewilson/makers-bnb), I learnt Node.js and Express without it being taught on the course and used it to build a fully-functioning Airbnb-style website in a week.  
+I earned a full-time offer at Bank of America Merrill Lynch by impressing my line manager with how quickly I picked up an understanding of finance and the technologies that the team used, despite having a scientific background and no previous experience in finance. For our [Makersbnb project](http://github.com/lsewilson/makers-bnb), I learnt Node.js and Express without it being taught on the course and used it to build a fully-functioning Airbnb-style website in a week.
 
 #### Analytical thinker
 
@@ -41,6 +41,7 @@ A 16-week intensive development bootcamp, focusing on:
 - Object-oriented design
 - Test driven development and behaviour driven development
 - Pair programming
+- XP values
 
 I am blogging about my experience [here](http://codingwithlaura.wordpress.com).
 
