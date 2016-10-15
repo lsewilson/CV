@@ -1,10 +1,10 @@
 ## Laura Wilson
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Blog](http://codingwithlaura.wordpress.com) | [LinkedIn](http://www.linkedin.com/in/laurasewilson)
 
 I am an ambitious, analytical and energetic individual, with a degree in Natural Sciences from the University of Cambridge.
 
-After two years working as a Commodities trader at an investment bank, and a gap year filled with charity fundraising bike rides and independent travel, I am now pursuing a more intellectually satisfying career in tech, where I'll never run out of things to learn.
+After two years working as a Commodities trader at an investment bank, and a gap year filled with charity fundraising bike rides and independent travel, I am now pursuing a role where I can consolidate the learning I have done at Makers Academy, while also gaining exposure to product management and business strategy.
 
 ## Skills
 
@@ -15,7 +15,7 @@ I have also taken up mentoring two junior students at Makers Academy, who I regu
 
 #### Thrives under pressure
 
-From having to co-organise an end-of-year ball during my final year at university, where the bulk of organisation coincided with completing finals, to completing group [projects](####Makers) and achieving MVP by the deadline in both instances, I have always thrived when working under pressure. It is my strong organisational and time management skills that I have developed over time that allows me to do this.
+From having to co-organise an end-of-year ball during my final year at university, where the bulk of organisation coincided with completing finals, to completing group [projects](#makers-academy-jul-16---nov-16) and achieving MVP by the deadline in all instances, I have always thrived when working under pressure. It is my strong organisational and time management skills that I have developed over time that allows me to do this.
 
 #### Fast learner
 
@@ -43,18 +43,16 @@ A 16-week intensive development bootcamp, focusing on:
 - Pair programming
 - XP values
 
-I am blogging about my experience [here](http://codingwithlaura.wordpress.com).
-
 | Project   | Description | Technologies | Testing |
 |---        |---          |---           |---      |
+| Atomodoro | A pomodoro timer Atom package | Coffeescript | Jasmine |
 | MakersBnB | An Airbnb style website | Node.js, Sequelize, PostgreSQL | Mocha, Zombie |
-| Chitter | A basic Twitter clone | Ruby, Sinatra, DataMapper, PostgreSQL | RSpec, Capybara |
 
 #### University of Cambridge, Emmanuel College  (Oct '10 - Jun '13)
 
-- BA in Chemistry (Natural Sciences)
+- BA Natural Sciences (Chemistry)
 - 2:1
-- Modules in Mathematics, Geology, Cell Biology and Japanese
+- Additional modules in Mathematics, Geology, Cell Biology and Japanese
 - Head of Staffing for Emmanuel College May Ball 2013
 - Elected to Emmanuel College Students' Union
 - Rowley Mainhood Award 2010; Senior Exhibition 2011, 2012, 2013
@@ -62,9 +60,7 @@ I am blogging about my experience [here](http://codingwithlaura.wordpress.com).
 #### St Helen's School, London (Sep '03 - Aug '10)
 
 - A Levels:        4 A*s in Mathematics, Further Mathematics, Chemistry and Biology
-- Advanced Awards: A in FMSQ Additional Maths
-- GCSEs:           10 A*s and 1 A
-- Awards for Mathematics and Science
+- Academic scholar with awards for Mathematics and Science
 
 ## Experience
 
