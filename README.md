@@ -2,20 +2,31 @@
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Blog](http://codingwithlaura.wordpress.com) | [LinkedIn](http://www.linkedin.com/in/laurasewilson)
 
-I am an ambitious, analytical and energetic individual, with a degree in Natural Sciences from the University of Cambridge.
+I am an ambitious and energetic individual, with a degree in Chemistry from Cambridge University.
 
-After two years working as a Commodities trader at an investment bank, and a gap year filled with charity fundraising bike rides and independent travel, I am now pursuing a role where I can consolidate the learning I have done at Makers Academy, while also gaining exposure to product management and business strategy.
+After two years working as a Commodities trader at an investment bank, and a gap year filled with charity fundraising bike rides and independent travel, I am now looking for a full stack developer role where I can consolidate my programming knowledge, while also gaining exposure to product management and business strategy.
+
+**Languages:** Ruby, Rails, Javascript, Coffeescript, Node.js
+
+## Projects
+
+For a complete list, see my [Github](https://github.com/lsewilson?tab=repositories)
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [UX Buddy](https://www.github.com/uxbuddy/uxbuddy) | A UX Research Tool for developers. Users can upload projects, generate surveys to send to testers and review response data. | Rails, RSpec/Capybara |
+|[Pompomodoro](https://www.github.com/lsewilson/pompomodoro)| A pomodoro timer Atom package. Users are encouraged to take breaks at regular intervals by a pomodoro timer running in the background of an Atom session. During breaks, users' keyboards are disabled. | Coffeescript, Jasmine|
 
 ## Skills
 
 #### Excellent communicator
 
-During my time at Bank of America, I wrote and distributed a daily newsletter to clients, with market commentary and data analysis. I have continued to develop my written communication skills by [blogging](http://codingwithlaura.wordpress.com) about my experience learning to code and I use it to develop a stronger online presence, by combining it with other social media outlets such as [Twitter](https://twitter.com/laura_wilson19).
+During my time at Bank of America, I wrote and distributed a daily newsletter to clients, with market commentary and data analysis. I have continued to develop my written communication skills by [blogging](http://codingwithlaura.wordpress.com) about my experience learning to code and I use it to develop a stronger online presence, by combining it with other social media outlets such as [Twitter](https://twitter.com/wilslau).
 I have also taken up mentoring two junior students at Makers Academy, who I regularly interact with and help guide their coding.
 
 #### Thrives under pressure
 
-From having to co-organise an end-of-year ball during my final year at university, where the bulk of organisation coincided with completing finals, to completing group [projects](#makers-academy-jul-16---nov-16) and achieving MVP by the deadline in all instances, I have always thrived when working under pressure. It is my strong organisational and time management skills that I have developed over time that allows me to do this.
+From having to organise an end-of-year ball during my final year at university, where the bulk of the organisation coincided with completing finals, to completing group [projects](#makers-academy-jul-16---nov-16), I have always thrived when working under pressure. It is my strong organisational and time management skills that I have developed over time that allows me to do this.
 
 #### Fast learner
 
@@ -27,9 +38,8 @@ In my role at Bank of America, I analysed new market data on a daily basis to ge
 
 #### Additional skills
 
-Languages
-
-- Basic Japanese and French  
+**Methodologies:** Agile, XP, Test Driven Development
+**Foreign languages:** Basic Japanese and French  
 
 ## Education
 
@@ -42,11 +52,6 @@ A 16-week intensive development bootcamp, focusing on:
 - Test driven development and behaviour driven development
 - Pair programming
 - XP values
-
-| Project   | Description | Technologies | Testing |
-|---        |---          |---           |---      |
-| Atomodoro | A pomodoro timer Atom package | Coffeescript | Jasmine |
-| MakersBnB | An Airbnb style website | Node.js, Sequelize, PostgreSQL | Mocha, Zombie |
 
 #### University of Cambridge, Emmanuel College  (Oct '10 - Jun '13)
 
