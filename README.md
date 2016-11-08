@@ -1,21 +1,22 @@
 ## Laura Wilson
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [Blog](http://codingwithlaura.wordpress.com) | [LinkedIn](http://www.linkedin.com/in/laurasewilson)
+[Projects](#projects) |[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/laurasewilson) | [Blog](http://codingwithlaura.wordpress.com)
 
-I am an ambitious and energetic individual, with a degree in Chemistry from Cambridge University.
+I am an energetic and ambitious **Full Stack Junior Developer**, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy.
 
-After two years working as a Commodities trader at an investment bank, and a gap year filled with charity fundraising bike rides and independent travel, I am now looking for a full stack developer role where I can consolidate my programming knowledge, while also gaining exposure to product management and business strategy.
+After graduating from Cambridge University with a degree in Chemistry, I spent two years working in investment banking as a Commodities trader. Between leaving my job and now, I've spent a gap year travelling around South East Asia, Australia and New Zealand on my own, raised over £40k for charity through sponsored cycles and learnt to code at Makers Academy, a 16 week software development bootcamp.
 
-**Languages:** Ruby, Rails, Javascript, Coffeescript, Node.js
+**Tech Skills** : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
 
 ## Projects
 
-For a complete list, see my [Github](https://github.com/lsewilson?tab=repositories)
+For a complete list, see my [GitHub](https://github.com/lsewilson?tab=repositories).
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
 | [UX Buddy](https://www.github.com/uxbuddy/uxbuddy) | A UX Research Tool for developers. Users can upload projects, generate surveys to send to testers and review response data. | Rails, RSpec/Capybara |
 |[Pompomodoro](https://www.github.com/lsewilson/pompomodoro)| A pomodoro timer Atom package. Users are encouraged to take breaks at regular intervals by a pomodoro timer running in the background of an Atom session. During breaks, users' keyboards are disabled. | Coffeescript, Jasmine|
+| [MakersBnB](https://github.com/lsewilson/makers-bnb) | An AirBnB clone for which we taught ourselves Node in a week. | Node.js, Express, Pug, Sequelize, Mocha, Zombie |
 
 ## Skills
 
@@ -38,14 +39,14 @@ In my role at Bank of America, I analysed new market data on a daily basis to ge
 
 #### Additional skills
 
-**Methodologies:** Agile, XP, Test Driven Development
-**Foreign languages:** Basic Japanese and French  
+ - Methodologies : Agile, XP, Test Driven Development
+ - Foreign languages : Basic Japanese and French  
 
 ## Education
 
 #### Makers Academy (Jul '16 - Nov '16)
 
-A 16-week intensive development bootcamp, focusing on:
+A 16-week intensive development bootcamp, focusing on :
 
 - Agile methodologies
 - Object-oriented design
@@ -64,7 +65,7 @@ A 16-week intensive development bootcamp, focusing on:
 
 #### St Helen's School, London (Sep '03 - Aug '10)
 
-- A Levels:        4 A*s in Mathematics, Further Mathematics, Chemistry and Biology
+- A Levels : 4 A*s in Mathematics, Further Mathematics, Chemistry and Biology
 - Academic scholar with awards for Mathematics and Science
 
 ## Experience
@@ -77,6 +78,6 @@ A 16-week intensive development bootcamp, focusing on:
 
 ## Hobbies and Interests
 
-- **Cycling**: I took part in Prudential RideLondon and a team London-to-Rome cycling event raising over £40,000 for charity in 2015.
-- **Yoga**: to stretch out after a day at the computer.
-- **Baking**: I make an excellent lemon drizzle.
+- **Cycling** : I took part in Prudential RideLondon and a team London-to-Rome cycling event raising over £40,000 for charity in 2015.
+- **Yoga** : to stretch out after a day at the computer.
+- **Baking** : I make an excellent lemon drizzle.
