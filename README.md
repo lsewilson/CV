@@ -1,6 +1,6 @@
 ## Laura Wilson
 
-[Projects](#projects) |[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/laurasewilson) | [Blog](http://codingwithlaura.wordpress.com)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) | [LinkedIn](http://www.linkedin.com/in/laurasewilson) | [Blog](http://codingwithlaura.wordpress.com)
 
 I am an energetic and ambitious **Full Stack Junior Developer**, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy.
 
@@ -23,11 +23,11 @@ For a complete list, see my [GitHub](https://github.com/lsewilson?tab=repositori
 #### Excellent communicator
 
 During my time at Bank of America, I wrote and distributed a daily newsletter to clients, with market commentary and data analysis. I have continued to develop my written communication skills by [blogging](http://codingwithlaura.wordpress.com) about my experience learning to code and I use it to develop a stronger online presence, by combining it with other social media outlets such as [Twitter](https://twitter.com/wilslau).
-I have also taken up mentoring two junior students at Makers Academy, who I regularly interact with and help guide their coding.
+I have also taken up coaching at Codebar, a non-profit initiative which runs regular programming workshops.
 
 #### Thrives under pressure
 
-From having to organise an end-of-year ball during my final year at university, where the bulk of the organisation coincided with completing finals, to completing group [projects](#makers-academy-jul-16---nov-16), I have always thrived when working under pressure. It is my strong organisational and time management skills that I have developed over time that allows me to do this.
+From having to organise an end-of-year ball during my final year at university, where the bulk of the organisation coincided with completing finals, to completing group [projects](#projects), I have always thrived when working under pressure. It is my strong organisational and time management skills that I have developed over time that allows me to do this.
 
 #### Fast learner
 
@@ -77,7 +77,6 @@ A 16-week intensive development bootcamp, focusing on :
 *Global Markets Summer Intern*  
 
 ## Hobbies and Interests
-
 - **Cycling** : I took part in Prudential RideLondon and a team London-to-Rome cycling event raising over £40,000 for charity in 2015.
 - **Yoga** : to stretch out after a day at the computer.
 - **Baking** : I make an excellent lemon drizzle.
