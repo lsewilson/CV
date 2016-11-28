@@ -4,7 +4,7 @@
 
 I am an energetic and ambitious **Full Stack Junior Developer**, looking for a role where I can consolidate and extend my programming knowledge, while also gaining exposure to product management and business strategy.
 
-After graduating from Cambridge University with a degree in Chemistry, I spent two years working in investment banking as a Commodities trader. Between leaving my job and now, I've spent a gap year travelling around South East Asia, Australia and New Zealand on my own, raised over £40k for charity through sponsored cycles and learnt to code at Makers Academy, a 16 week software development bootcamp.
+After graduating from Cambridge University with a degree in Chemistry, I spent two years working in investment banking as a Commodities trader. Between leaving my job and now, I've spent a gap year travelling independently around South East Asia, Australia and New Zealand, raised over £40k for charity through sponsored cycles and learnt to code at Makers Academy, a 16 week software development bootcamp.
 
 **Tech Skills** : Ruby, Rails, Sinatra, Node.js, Express, HTML, CSS, JavaScript, jQuery, Bootstrap, PostgreSQL
 
@@ -14,8 +14,8 @@ For a complete list, see my [GitHub](https://github.com/lsewilson?tab=repositori
 
 | Project   | Description | Technologies |
 |---        |---         |---           |
-| [UX Buddy](https://www.github.com/uxbuddy/uxbuddy) | A UX Research Tool for developers. Users can upload projects, generate surveys to send to testers and review response data. | Rails, RSpec/Capybara |
-|[Pompomodoro](https://www.github.com/lsewilson/pompomodoro)| A pomodoro timer Atom package. Users are encouraged to take breaks at regular intervals by a pomodoro timer running in the background of an Atom session. During breaks, users' keyboards are disabled. | Coffeescript, Jasmine|
+| [UXBuddy](https://www.github.com/uxbuddy/uxbuddy) | A UX Research Tool for developers. Users can upload projects, generate surveys to send to testers and review response data. | Rails, RSpec/Capybara |
+|[Atomodoro](https://www.github.com/lsewilson/atomodoro)| A pomodoro timer Atom package. Users are encouraged to take breaks at regular intervals by a pomodoro timer running in the background of an Atom session. During breaks, users' keyboards are disabled. | Coffeescript, Jasmine|
 | [MakersBnB](https://github.com/lsewilson/makers-bnb) | An AirBnB clone for which we taught ourselves Node in a week. | Node.js, Express, Pug, Sequelize, Mocha, Zombie |
 
 ## Skills
@@ -70,6 +70,9 @@ A 16-week intensive development bootcamp, focusing on :
 
 ## Experience
 
+**Coding with Laura** (Jul '16 - Present)    
+*Blog editor and founder*  
+
 **Bank of America Merrill Lynch** (Jul '13 - Jul '15)    
 *Junior Metals Trader*  
 
@@ -78,5 +81,5 @@ A 16-week intensive development bootcamp, focusing on :
 
 ## Hobbies and Interests
 - **Cycling** : I took part in Prudential RideLondon and a team London-to-Rome cycling event raising over £40,000 for charity in 2015.
-- **Yoga** : to stretch out after a day at the computer.
-- **Baking** : I make an excellent lemon drizzle.
+- **Yoga** : To stretch out after a day at the computer.
+- **Baking** : I make an excellent lemon drizzle!
